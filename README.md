@@ -1,3 +1,4 @@
+![Mutedop GitHub Banner](./illustrator/pavel_panchenko.png)
 ### Hi there 👋
 
 <!--
