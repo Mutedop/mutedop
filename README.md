@@ -1,8 +1,9 @@
-![Mutedop GitHub Banner](./illustrator/pavel_panchenko.png)
+![Mutedop GitHub Banner](./illustrator/ppt2.png)
 
 ### Hi there 👋
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=BE90F2&color=1A1B27)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=plastic&logo=mysql&logoColor=BE90F2&color=1A1B27)
 
 
 
