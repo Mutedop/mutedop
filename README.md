@@ -1,4 +1,4 @@
-![Mutedop GitHub Banner](./illustrator/ppt2.png)
+![Mutedop GitHub Banner](./illustrator/ppt3.png)
 
 ### Hi there 👋
 
