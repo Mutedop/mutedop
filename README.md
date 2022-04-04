@@ -8,11 +8,14 @@ ___
 ___
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=BE90F2&color=1A1B27)
 ![](https://img.shields.io/badge/Code-Django-informational?style=plastic&logo=django&logoColor=BE90F2&color=1A1B27)
+![](https://img.shields.io/badge/Code-FastAPI-informational?style=plastic&logo=fastapi&logoColor=BE90F2&color=1A1B27)
 ![](https://img.shields.io/badge/Code-DRF-informational?style=plastic&logo=drf&logoColor=BE90F2&color=1A1B27)
 
+
 ![](https://img.shields.io/badge/DB-sql-informational?style=plastic&logo=sqlite&logoColor=BE90F2&color=1A1B27)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=plastic&logo=mysql&logoColor=BE90F2&color=1A1B27)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=BE90F2&color=1A1B27)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=plastic&logo=mysql&logoColor=BE90F2&color=1A1B27)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=BE90F2&color=1A1B27)
+![](https://img.shields.io/badge/DB-SQLAlchemy-informational?style=plastic&logo=SQLAlchemy&logoColor=BE90F2&color=1A1B27)
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=plastic&logo=GitHub&logoColor=BE90F2&color=1A1B27)
 ![](https://img.shields.io/badge/Tools-Actions-informational?style=plastic&logo=github-actions&logoColor=BE90F2&color=1A1B27)
