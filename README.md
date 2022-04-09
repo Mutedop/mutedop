@@ -26,11 +26,12 @@ ___
 
 
 
+
 ![Mutedop's GitHub stats](https://github-readme-stats.vercel.app/api?username=mutedop&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutedop&theme=tokyonight)](https://github.com/mutedop/github-readme-stats)
 
-
+![](https://www.codewars.com/users/Mutedop/badges/large)
 <!--
 **Mutedop/mutedop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
