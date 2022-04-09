@@ -23,6 +23,8 @@ ___
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=plastic&logo=nginx&logoColor=BE90F2&color=1A1B27)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=plastic&logo=postman&logoColor=BE90F2&color=1A1B27)
 
+![](https://www.codewars.com/users/Mutedop/badges/micro)
+
 
 
 
@@ -31,7 +33,6 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutedop&theme=tokyonight)](https://github.com/mutedop/github-readme-stats)
 
-![](https://www.codewars.com/users/Mutedop/badges/large)
 <!--
 **Mutedop/mutedop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
