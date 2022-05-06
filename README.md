@@ -7,9 +7,12 @@ ___
 
 ___
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=BE90F2&color=1A1B27)
+
 ![](https://img.shields.io/badge/Code-Django-informational?style=plastic&logo=django&logoColor=BE90F2&color=1A1B27)
-![](https://img.shields.io/badge/Code-FastAPI-informational?style=plastic&logo=fastapi&logoColor=BE90F2&color=1A1B27)
 ![](https://img.shields.io/badge/Code-DRF-informational?style=plastic&logo=drf&logoColor=BE90F2&color=1A1B27)
+
+![](https://img.shields.io/badge/Code-FastAPI-informational?style=plastic&logo=fastapi&logoColor=BE90F2&color=1A1B27)
+
 
 
 ![](https://img.shields.io/badge/DB-sql-informational?style=plastic&logo=sqlite&logoColor=BE90F2&color=1A1B27)
